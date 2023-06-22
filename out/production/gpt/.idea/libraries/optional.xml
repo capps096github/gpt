@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="optional">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-expression-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-jdbc-store-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-stomp-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/httpcore-4.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activeio-core-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-amqp-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-pool-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/jettison-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-mqtt-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-pool2-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/jaxb2-basics-runtime-0.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-jms-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-partition-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/log4j-slf4j2-impl-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-beans-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-oxm-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/jmdns-3.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/org.apache.servicemix.bundles.josql-1.5_5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/httpclient-4.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/jasypt-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-dbcp2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-aop-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-tx-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-log4j-appender-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/geronimo-j2ee-connector_1.5_spec-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/xstream-1.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/shiro-spring-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-core-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-runtime-config-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/log4j-core-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/velocity-engine-core-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/spring-context-5.3.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/jasypt-spring4-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-http-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/log4j-api-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-jms-pool-5.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/proton-j-0.33.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/shiro-core-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/xbean-spring-4.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/activemq-shiro-5.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

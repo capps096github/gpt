@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="camel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/camel/camel-jms-2.25.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/camel/camel-spring-2.25.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/camel/camel-core-2.25.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
